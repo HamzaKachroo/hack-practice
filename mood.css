@@ -1,0 +1,55 @@
+body
+{
+    text-align: center;
+    font-family: monospace;
+    
+    background-image: url(jimmy.jpg);
+    background-size: cover;
+}
+
+
+.green-button {
+    padding: 24px;
+    border-color: white;
+    background-color: greenyellow;
+  }
+
+  #my-button{
+      margin-top: 18px;
+  }
+
+  #my-div{
+      font-size: 20px;
+      color: white;
+  }
+
+  #my-header
+  {
+      color:white;
+  }
+
+  #hamza-header
+  {
+      margin-top: 108px;
+      font-size: 26px;
+      color: white;
+  }
+
+  #hamza-div
+  {
+      font-size: 22px;
+      color: white;
+  }
+
+  #hamza-button
+  {
+      margin-top: 15px;
+      padding: 26px;
+
+      background-color: navy;
+      color: white;
+  }
+
+  
+  
+
